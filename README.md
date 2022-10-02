@@ -14,16 +14,7 @@ To learn about how to contribute to this repository refer to CONTRIBUTION.md.
 
 No Algorithm or DSA question are considered as a valid contribution, so please refrain from making PRs of such programs.
 
-Resources:
-Join Telegram Group for any discussion
-
-YouTube Channel For Resources
-
-Discord For more efficient Discussion
-
-Be in touch with via Linkedin
-
-For more query you can visit the Official Hactoberfest 2022 FAQs <a href="https://hacktoberfest.com"> here </a>
+Visit the Official Hactoberfest 2022 FAQs <a href="https://hacktoberfest.com"> here </a>
 
 To learn about making your First Open Source contribution watch this video.
 <br>
