@@ -1,0 +1,414 @@
+[
+    {
+        "merged": "D:\\GTA5 Download\\BloggerWallpaperApp\\BloggerWallpaperApp\\app\\build\\intermediates\\merged_res\\debug\\layout_item_wallpaper_rectangle.xml.flat",
+        "source": "D:\\GTA5 Download\\BloggerWallpaperApp\\BloggerWallpaperApp\\app\\src\\main\\res\\layout\\item_wallpaper_rectangle.xml"
+    },
+    {
+        "merged": "D:\\GTA5 Download\\BloggerWallpaperApp\\BloggerWallpaperApp\\app\\build\\intermediates\\merged_res\\debug\\drawable_bg_gradient.xml.flat",
+        "source": "D:\\GTA5 Download\\BloggerWallpaperApp\\BloggerWallpaperApp\\app\\src\\main\\res\\drawable\\bg_gradient.xml"
+    },
+    {
+        "merged": "D:\\GTA5 Download\\BloggerWallpaperApp\\BloggerWallpaperApp\\app\\build\\intermediates\\merged_res\\debug\\layout_item_category.xml.flat",
+        "source": "D:\\GTA5 Download\\BloggerWallpaperApp\\BloggerWallpaperApp\\app\\src\\main\\res\\layout\\item_category.xml"
+    },
+    {
+        "merged": "D:\\GTA5 Download\\BloggerWallpaperApp\\BloggerWallpaperApp\\app\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_ic_launcher_adaptive_fore.png.flat",
+        "source": "D:\\GTA5 Download\\BloggerWallpaperApp\\BloggerWallpaperApp\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_adaptive_fore.png"
+    },
+    {
+        "merged": "D:\\GTA5 Download\\BloggerWallpaperApp\\BloggerWallpaperApp\\app\\build\\intermediates\\merged_res\\debug\\layout_item_wallpaper_dynamic.xml.flat",
+        "source": "D:\\GTA5 Download\\BloggerWallpaperApp\\BloggerWallpaperApp\\app\\src\\main\\res\\layout\\item_wallpaper_dynamic.xml"
+    },
+    {
+        "merged": "D:\\GTA5 Download\\BloggerWallpaperApp\\BloggerWallpaperApp\\app\\build\\intermediates\\merged_res\\debug\\drawable_bg_shimmer.xml.flat",
+        "source": "D:\\GTA5 Download\\BloggerWallpaperApp\\BloggerWallpaperApp\\app\\src\\main\\res\\drawable\\bg_shimmer.xml"
+    },
+    {
+        "merged": "D:\\GTA5 Download\\BloggerWallpaperApp\\BloggerWallpaperApp\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_ic_action_set.png.flat",
+        "source": "D:\\GTA5 Download\\BloggerWallpaperApp\\BloggerWallpaperApp\\app\\src\\main\\res\\drawable-hdpi\\ic_action_set.png"
+    },
+    {
+        "merged": "D:\\GTA5 Download\\BloggerWallpaperApp\\BloggerWallpaperApp\\app\\build\\intermediates\\merged_res\\debug\\layout_toolbar.xml.flat",
+        "source": "D:\\GTA5 Download\\BloggerWallpaperApp\\BloggerWallpaperApp\\app\\src\\main\\res\\layout\\toolbar.xml"
+    },
+    {
+        "merged": "D:\\GTA5 Download\\BloggerWallpaperApp\\BloggerWallpaperApp\\app\\build\\intermediates\\merged_res\\debug\\layout_include_no_result.xml.flat",
+        "source": "D:\\GTA5 Download\\BloggerWallpaperApp\\BloggerWallpaperApp\\app\\src\\main\\res\\layout\\include_no_result.xml"
+    },
+    {
+        "merged": "D:\\GTA5 Download\\BloggerWallpaperApp\\BloggerWallpaperApp\\app\\build\\intermediates\\merged_res\\debug\\menu_menu_main.xml.flat",
+        "source": "D:\\GTA5 Download\\BloggerWallpaperApp\\BloggerWallpaperApp\\app\\src\\main\\res\\menu\\menu_main.xml"
+    },
+    {
+        "merged": "D:\\GTA5 Download\\BloggerWallpaperApp\\BloggerWallpaperApp\\app\\build\\intermediates\\merged_res\\debug\\layout_dialog_success.xml.flat",
+        "source": "D:\\GTA5 Download\\BloggerWallpaperApp\\BloggerWallpaperApp\\app\\src\\main\\res\\layout\\dialog_success.xml"
+    },
+    {
+        "merged": "D:\\GTA5 Download\\BloggerWallpaperApp\\BloggerWallpaperApp\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_ic_launcher_adaptive_back.png.flat",
+        "source": "D:\\GTA5 Download\\BloggerWallpaperApp\\BloggerWallpaperApp\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_adaptive_back.png"
+    },
+    {
+        "merged": "D:\\GTA5 Download\\BloggerWallpaperApp\\BloggerWallpaperApp\\app\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "D:\\GTA5 Download\\BloggerWallpaperApp\\BloggerWallpaperApp\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\GTA5 Download\\BloggerWallpaperApp\\BloggerWallpaperApp\\app\\build\\intermediates\\merged_res\\debug\\layout_fragment_post.xml.flat",
+        "source": "D:\\GTA5 Download\\BloggerWallpaperApp\\BloggerWallpaperApp\\app\\src\\main\\res\\layout\\fragment_post.xml"
+    },
+    {
+        "merged": "D:\\GTA5 Download\\BloggerWallpaperApp\\BloggerWallpaperApp\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_ic_no_content.png.flat",
+        "source": "D:\\GTA5 Download\\BloggerWallpaperApp\\BloggerWallpaperApp\\app\\src\\main\\res\\drawable-hdpi\\ic_no_content.png"
+    },
+    {
+        "merged": "D:\\GTA5 Download\\BloggerWallpaperApp\\BloggerWallpaperApp\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_ic_nav_wallpaper.png.flat",
+        "source": "D:\\GTA5 Download\\BloggerWallpaperApp\\BloggerWallpaperApp\\app\\src\\main\\res\\drawable-hdpi\\ic_nav_wallpaper.png"
+    },
+    {
+        "merged": "D:\\GTA5 Download\\BloggerWallpaperApp\\BloggerWallpaperApp\\app\\build\\intermediates\\merged_res\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "D:\\GTA5 Download\\BloggerWallpaperApp\\BloggerWallpaperApp\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "D:\\GTA5 Download\\BloggerWallpaperApp\\BloggerWallpaperApp\\app\\build\\intermediates\\merged_res\\debug\\layout_fragment_category.xml.flat",
+        "source": "D:\\GTA5 Download\\BloggerWallpaperApp\\BloggerWallpaperApp\\app\\src\\main\\res\\layout\\fragment_category.xml"
+    },
+    {
+        "merged": "D:\\GTA5 Download\\BloggerWallpaperApp\\BloggerWallpaperApp\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_ic_menu_search.png.flat",
+        "source": "D:\\GTA5 Download\\BloggerWallpaperApp\\BloggerWallpaperApp\\app\\src\\main\\res\\drawable-hdpi\\ic_menu_search.png"
+    },
+    {
+        "merged": "D:\\GTA5 Download\\BloggerWallpaperApp\\BloggerWallpaperApp\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_ic_action_fav_outline.png.flat",
+        "source": "D:\\GTA5 Download\\BloggerWallpaperApp\\BloggerWallpaperApp\\app\\src\\main\\res\\drawable-hdpi\\ic_action_fav_outline.png"
+    },
+    {
+        "merged": "D:\\GTA5 Download\\BloggerWallpaperApp\\BloggerWallpaperApp\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_viewpager2.xml.flat",
+        "source": "D:\\GTA5 Download\\BloggerWallpaperApp\\BloggerWallpaperApp\\app\\src\\main\\res\\layout\\activity_viewpager2.xml"
+    },
+    {
+        "merged": "D:\\GTA5 Download\\BloggerWallpaperApp\\BloggerWallpaperApp\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_settings.xml.flat",
+        "source": "D:\\GTA5 Download\\BloggerWallpaperApp\\BloggerWallpaperApp\\app\\src\\main\\res\\layout\\activity_settings.xml"
+    },
+    {
+        "merged": "D:\\GTA5 Download\\BloggerWallpaperApp\\BloggerWallpaperApp\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_search.xml.flat",
+        "source": "D:\\GTA5 Download\\BloggerWallpaperApp\\BloggerWallpaperApp\\app\\src\\main\\res\\layout\\activity_search.xml"
+    },
+    {
+        "merged": "D:\\GTA5 Download\\BloggerWallpaperApp\\BloggerWallpaperApp\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_ic_result_no_search.png.flat",
+        "source": "D:\\GTA5 Download\\BloggerWallpaperApp\\BloggerWallpaperApp\\app\\src\\main\\res\\drawable-hdpi\\ic_result_no_search.png"
+    },
+    {
+        "merged": "D:\\GTA5 Download\\BloggerWallpaperApp\\BloggerWallpaperApp\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_bg_splash_dark__.jpg.flat",
+        "source": "D:\\GTA5 Download\\BloggerWallpaperApp\\BloggerWallpaperApp\\app\\src\\main\\res\\drawable-hdpi\\bg_splash_dark__.jpg"
+    },
+    {
+        "merged": "D:\\GTA5 Download\\BloggerWallpaperApp\\BloggerWallpaperApp\\app\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_ic_launcher_adaptive_back.png.flat",
+        "source": "D:\\GTA5 Download\\BloggerWallpaperApp\\BloggerWallpaperApp\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_adaptive_back.png"
+    },
+    {
+        "merged": "D:\\GTA5 Download\\BloggerWallpaperApp\\BloggerWallpaperApp\\app\\build\\intermediates\\merged_res\\debug\\layout_shimmer_wallpaper_3_columns_rectangle.xml.flat",
+        "source": "D:\\GTA5 Download\\BloggerWallpaperApp\\BloggerWallpaperApp\\app\\src\\main\\res\\layout\\shimmer_wallpaper_3_columns_rectangle.xml"
+    },
+    {
+        "merged": "D:\\GTA5 Download\\BloggerWallpaperApp\\BloggerWallpaperApp\\app\\build\\intermediates\\merged_res\\debug\\drawable_bg_circle.xml.flat",
+        "source": "D:\\GTA5 Download\\BloggerWallpaperApp\\BloggerWallpaperApp\\app\\src\\main\\res\\drawable\\bg_circle.xml"
+    },
+    {
+        "merged": "D:\\GTA5 Download\\BloggerWallpaperApp\\BloggerWallpaperApp\\app\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "D:\\GTA5 Download\\BloggerWallpaperApp\\BloggerWallpaperApp\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "D:\\GTA5 Download\\BloggerWallpaperApp\\BloggerWallpaperApp\\app\\build\\intermediates\\merged_res\\debug\\layout_shimmer_category_list.xml.flat",
+        "source": "D:\\GTA5 Download\\BloggerWallpaperApp\\BloggerWallpaperApp\\app\\src\\main\\res\\layout\\shimmer_category_list.xml"
+    },
+    {
+        "merged": "D:\\GTA5 Download\\BloggerWallpaperApp\\BloggerWallpaperApp\\app\\build\\intermediates\\merged_res\\debug\\layout_item_suggestion.xml.flat",
+        "source": "D:\\GTA5 Download\\BloggerWallpaperApp\\BloggerWallpaperApp\\app\\src\\main\\res\\layout\\item_suggestion.xml"
+    },
+    {
+        "merged": "D:\\GTA5 Download\\BloggerWallpaperApp\\BloggerWallpaperApp\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_ic_launcher_foreground.png.flat",
+        "source": "D:\\GTA5 Download\\BloggerWallpaperApp\\BloggerWallpaperApp\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "D:\\GTA5 Download\\BloggerWallpaperApp\\BloggerWallpaperApp\\app\\build\\intermediates\\merged_res\\debug\\layout_item_wallpaper_square.xml.flat",
+        "source": "D:\\GTA5 Download\\BloggerWallpaperApp\\BloggerWallpaperApp\\app\\src\\main\\res\\layout\\item_wallpaper_square.xml"
+    },
+    {
+        "merged": "D:\\GTA5 Download\\BloggerWallpaperApp\\BloggerWallpaperApp\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_splash.xml.flat",
+        "source": "D:\\GTA5 Download\\BloggerWallpaperApp\\BloggerWallpaperApp\\app\\src\\main\\res\\layout\\activity_splash.xml"
+    },
+    {
+        "merged": "D:\\GTA5 Download\\BloggerWallpaperApp\\BloggerWallpaperApp\\app\\build\\intermediates\\merged_res\\debug\\layout_include_set_action.xml.flat",
+        "source": "D:\\GTA5 Download\\BloggerWallpaperApp\\BloggerWallpaperApp\\app\\src\\main\\res\\layout\\include_set_action.xml"
+    },
+    {
+        "merged": "D:\\GTA5 Download\\BloggerWallpaperApp\\BloggerWallpaperApp\\app\\build\\intermediates\\merged_res\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "D:\\GTA5 Download\\BloggerWallpaperApp\\BloggerWallpaperApp\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "D:\\GTA5 Download\\BloggerWallpaperApp\\BloggerWallpaperApp\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_bg_splash_default__.jpg.flat",
+        "source": "D:\\GTA5 Download\\BloggerWallpaperApp\\BloggerWallpaperApp\\app\\src\\main\\res\\drawable-hdpi\\bg_splash_default__.jpg"
+    },
+    {
+        "merged": "D:\\GTA5 Download\\BloggerWallpaperApp\\BloggerWallpaperApp\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_bg_splash_dark_.jpg.flat",
+        "source": "D:\\GTA5 Download\\BloggerWallpaperApp\\BloggerWallpaperApp\\app\\src\\main\\res\\drawable-hdpi\\bg_splash_dark_.jpg"
+    },
+    {
+        "merged": "D:\\GTA5 Download\\BloggerWallpaperApp\\BloggerWallpaperApp\\app\\build\\intermediates\\merged_res\\debug\\layout_shimmer_wallpaper_2_columns_rectangle.xml.flat",
+        "source": "D:\\GTA5 Download\\BloggerWallpaperApp\\BloggerWallpaperApp\\app\\src\\main\\res\\layout\\shimmer_wallpaper_2_columns_rectangle.xml"
+    },
+    {
+        "merged": "D:\\GTA5 Download\\BloggerWallpaperApp\\BloggerWallpaperApp\\app\\build\\intermediates\\merged_res\\debug\\layout_include_failed.xml.flat",
+        "source": "D:\\GTA5 Download\\BloggerWallpaperApp\\BloggerWallpaperApp\\app\\src\\main\\res\\layout\\include_failed.xml"
+    },
+    {
+        "merged": "D:\\GTA5 Download\\BloggerWallpaperApp\\BloggerWallpaperApp\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_ic_launcher_foreground.png.flat",
+        "source": "D:\\GTA5 Download\\BloggerWallpaperApp\\BloggerWallpaperApp\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "D:\\GTA5 Download\\BloggerWallpaperApp\\BloggerWallpaperApp\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_bg_splash_default.jpg.flat",
+        "source": "D:\\GTA5 Download\\BloggerWallpaperApp\\BloggerWallpaperApp\\app\\src\\main\\res\\drawable-hdpi\\bg_splash_default.jpg"
+    },
+    {
+        "merged": "D:\\GTA5 Download\\BloggerWallpaperApp\\BloggerWallpaperApp\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_ic_nav_favorite.png.flat",
+        "source": "D:\\GTA5 Download\\BloggerWallpaperApp\\BloggerWallpaperApp\\app\\src\\main\\res\\drawable-hdpi\\ic_nav_favorite.png"
+    },
+    {
+        "merged": "D:\\GTA5 Download\\BloggerWallpaperApp\\BloggerWallpaperApp\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "D:\\GTA5 Download\\BloggerWallpaperApp\\BloggerWallpaperApp\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "D:\\GTA5 Download\\BloggerWallpaperApp\\BloggerWallpaperApp\\app\\build\\intermediates\\merged_res\\debug\\drawable_bg_gradient_round.xml.flat",
+        "source": "D:\\GTA5 Download\\BloggerWallpaperApp\\BloggerWallpaperApp\\app\\src\\main\\res\\drawable\\bg_gradient_round.xml"
+    },
+    {
+        "merged": "D:\\GTA5 Download\\BloggerWallpaperApp\\BloggerWallpaperApp\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_ic_nav_categories.png.flat",
+        "source": "D:\\GTA5 Download\\BloggerWallpaperApp\\BloggerWallpaperApp\\app\\src\\main\\res\\drawable-hdpi\\ic_nav_categories.png"
+    },
+    {
+        "merged": "D:\\GTA5 Download\\BloggerWallpaperApp\\BloggerWallpaperApp\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "D:\\GTA5 Download\\BloggerWallpaperApp\\BloggerWallpaperApp\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\GTA5 Download\\BloggerWallpaperApp\\BloggerWallpaperApp\\app\\build\\intermediates\\merged_res\\debug\\layout_include_no_favorite.xml.flat",
+        "source": "D:\\GTA5 Download\\BloggerWallpaperApp\\BloggerWallpaperApp\\app\\src\\main\\res\\layout\\include_no_favorite.xml"
+    },
+    {
+        "merged": "D:\\GTA5 Download\\BloggerWallpaperApp\\BloggerWallpaperApp\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_ic_overflow.png.flat",
+        "source": "D:\\GTA5 Download\\BloggerWallpaperApp\\BloggerWallpaperApp\\app\\src\\main\\res\\drawable-hdpi\\ic_overflow.png"
+    },
+    {
+        "merged": "D:\\GTA5 Download\\BloggerWallpaperApp\\BloggerWallpaperApp\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_ic_history.png.flat",
+        "source": "D:\\GTA5 Download\\BloggerWallpaperApp\\BloggerWallpaperApp\\app\\src\\main\\res\\drawable-hdpi\\ic_history.png"
+    },
+    {
+        "merged": "D:\\GTA5 Download\\BloggerWallpaperApp\\BloggerWallpaperApp\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_ic_no_network.png.flat",
+        "source": "D:\\GTA5 Download\\BloggerWallpaperApp\\BloggerWallpaperApp\\app\\src\\main\\res\\drawable-hdpi\\ic_no_network.png"
+    },
+    {
+        "merged": "D:\\GTA5 Download\\BloggerWallpaperApp\\BloggerWallpaperApp\\app\\build\\intermediates\\merged_res\\debug\\font_custom_font.ttf.flat",
+        "source": "D:\\GTA5 Download\\BloggerWallpaperApp\\BloggerWallpaperApp\\app\\src\\main\\res\\font\\custom_font.ttf"
+    },
+    {
+        "merged": "D:\\GTA5 Download\\BloggerWallpaperApp\\BloggerWallpaperApp\\app\\build\\intermediates\\merged_res\\debug\\drawable_bg_button_primary.xml.flat",
+        "source": "D:\\GTA5 Download\\BloggerWallpaperApp\\BloggerWallpaperApp\\app\\src\\main\\res\\drawable\\bg_button_primary.xml"
+    },
+    {
+        "merged": "D:\\GTA5 Download\\BloggerWallpaperApp\\BloggerWallpaperApp\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_main.xml.flat",
+        "source": "D:\\GTA5 Download\\BloggerWallpaperApp\\BloggerWallpaperApp\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "D:\\GTA5 Download\\BloggerWallpaperApp\\BloggerWallpaperApp\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_bg_splash_default_.jpg.flat",
+        "source": "D:\\GTA5 Download\\BloggerWallpaperApp\\BloggerWallpaperApp\\app\\src\\main\\res\\drawable-hdpi\\bg_splash_default_.jpg"
+    },
+    {
+        "merged": "D:\\GTA5 Download\\BloggerWallpaperApp\\BloggerWallpaperApp\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_ic_action_download.png.flat",
+        "source": "D:\\GTA5 Download\\BloggerWallpaperApp\\BloggerWallpaperApp\\app\\src\\main\\res\\drawable-hdpi\\ic_action_download.png"
+    },
+    {
+        "merged": "D:\\GTA5 Download\\BloggerWallpaperApp\\BloggerWallpaperApp\\app\\build\\intermediates\\merged_res\\debug\\layout_shimmer_category_grid.xml.flat",
+        "source": "D:\\GTA5 Download\\BloggerWallpaperApp\\BloggerWallpaperApp\\app\\src\\main\\res\\layout\\shimmer_category_grid.xml"
+    },
+    {
+        "merged": "D:\\GTA5 Download\\BloggerWallpaperApp\\BloggerWallpaperApp\\app\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_ic_launcher_foreground.png.flat",
+        "source": "D:\\GTA5 Download\\BloggerWallpaperApp\\BloggerWallpaperApp\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "D:\\GTA5 Download\\BloggerWallpaperApp\\BloggerWallpaperApp\\app\\build\\intermediates\\merged_res\\debug\\layout_item_slider_wallpaper.xml.flat",
+        "source": "D:\\GTA5 Download\\BloggerWallpaperApp\\BloggerWallpaperApp\\app\\src\\main\\res\\layout\\item_slider_wallpaper.xml"
+    },
+    {
+        "merged": "D:\\GTA5 Download\\BloggerWallpaperApp\\BloggerWallpaperApp\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_bg_splash_dark.jpg.flat",
+        "source": "D:\\GTA5 Download\\BloggerWallpaperApp\\BloggerWallpaperApp\\app\\src\\main\\res\\drawable-hdpi\\bg_splash_dark.jpg"
+    },
+    {
+        "merged": "D:\\GTA5 Download\\BloggerWallpaperApp\\BloggerWallpaperApp\\app\\build\\intermediates\\merged_res\\debug\\layout_fragment_favorite.xml.flat",
+        "source": "D:\\GTA5 Download\\BloggerWallpaperApp\\BloggerWallpaperApp\\app\\src\\main\\res\\layout\\fragment_favorite.xml"
+    },
+    {
+        "merged": "D:\\GTA5 Download\\BloggerWallpaperApp\\BloggerWallpaperApp\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_launcher_foreground.png.flat",
+        "source": "D:\\GTA5 Download\\BloggerWallpaperApp\\BloggerWallpaperApp\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "D:\\GTA5 Download\\BloggerWallpaperApp\\BloggerWallpaperApp\\app\\build\\intermediates\\merged_res\\debug\\menu_menu_category_detail.xml.flat",
+        "source": "D:\\GTA5 Download\\BloggerWallpaperApp\\BloggerWallpaperApp\\app\\src\\main\\res\\menu\\menu_category_detail.xml"
+    },
+    {
+        "merged": "D:\\GTA5 Download\\BloggerWallpaperApp\\BloggerWallpaperApp\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_ic_menu_launch.png.flat",
+        "source": "D:\\GTA5 Download\\BloggerWallpaperApp\\BloggerWallpaperApp\\app\\src\\main\\res\\drawable-hdpi\\ic_menu_launch.png"
+    },
+    {
+        "merged": "D:\\GTA5 Download\\BloggerWallpaperApp\\BloggerWallpaperApp\\app\\build\\intermediates\\merged_res\\debug\\drawable_bg_shadow_top_gradient.xml.flat",
+        "source": "D:\\GTA5 Download\\BloggerWallpaperApp\\BloggerWallpaperApp\\app\\src\\main\\res\\drawable\\bg_shadow_top_gradient.xml"
+    },
+    {
+        "merged": "D:\\GTA5 Download\\BloggerWallpaperApp\\BloggerWallpaperApp\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_ic_delete.png.flat",
+        "source": "D:\\GTA5 Download\\BloggerWallpaperApp\\BloggerWallpaperApp\\app\\src\\main\\res\\drawable-hdpi\\ic_delete.png"
+    },
+    {
+        "merged": "D:\\GTA5 Download\\BloggerWallpaperApp\\BloggerWallpaperApp\\app\\build\\intermediates\\merged_res\\debug\\layout_item_load_more.xml.flat",
+        "source": "D:\\GTA5 Download\\BloggerWallpaperApp\\BloggerWallpaperApp\\app\\src\\main\\res\\layout\\item_load_more.xml"
+    },
+    {
+        "merged": "D:\\GTA5 Download\\BloggerWallpaperApp\\BloggerWallpaperApp\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_ic_clear.png.flat",
+        "source": "D:\\GTA5 Download\\BloggerWallpaperApp\\BloggerWallpaperApp\\app\\src\\main\\res\\drawable-hdpi\\ic_clear.png"
+    },
+    {
+        "merged": "D:\\GTA5 Download\\BloggerWallpaperApp\\BloggerWallpaperApp\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_category_detail.xml.flat",
+        "source": "D:\\GTA5 Download\\BloggerWallpaperApp\\BloggerWallpaperApp\\app\\src\\main\\res\\layout\\activity_category_detail.xml"
+    },
+    {
+        "merged": "D:\\GTA5 Download\\BloggerWallpaperApp\\BloggerWallpaperApp\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_ic_menu_favorite.png.flat",
+        "source": "D:\\GTA5 Download\\BloggerWallpaperApp\\BloggerWallpaperApp\\app\\src\\main\\res\\drawable-hdpi\\ic_menu_favorite.png"
+    },
+    {
+        "merged": "D:\\GTA5 Download\\BloggerWallpaperApp\\BloggerWallpaperApp\\app\\build\\intermediates\\merged_res\\debug\\layout_item_wallpaper_detail.xml.flat",
+        "source": "D:\\GTA5 Download\\BloggerWallpaperApp\\BloggerWallpaperApp\\app\\src\\main\\res\\layout\\item_wallpaper_detail.xml"
+    },
+    {
+        "merged": "D:\\GTA5 Download\\BloggerWallpaperApp\\BloggerWallpaperApp\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_set_wallpaper.xml.flat",
+        "source": "D:\\GTA5 Download\\BloggerWallpaperApp\\BloggerWallpaperApp\\app\\src\\main\\res\\layout\\activity_set_wallpaper.xml"
+    },
+    {
+        "merged": "D:\\GTA5 Download\\BloggerWallpaperApp\\BloggerWallpaperApp\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_ic_launcher_adaptive_back.png.flat",
+        "source": "D:\\GTA5 Download\\BloggerWallpaperApp\\BloggerWallpaperApp\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_adaptive_back.png"
+    },
+    {
+        "merged": "D:\\GTA5 Download\\BloggerWallpaperApp\\BloggerWallpaperApp\\app\\build\\intermediates\\merged_res\\debug\\layout_include_no_item.xml.flat",
+        "source": "D:\\GTA5 Download\\BloggerWallpaperApp\\BloggerWallpaperApp\\app\\src\\main\\res\\layout\\include_no_item.xml"
+    },
+    {
+        "merged": "D:\\GTA5 Download\\BloggerWallpaperApp\\BloggerWallpaperApp\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_ic_launcher_adaptive_back.png.flat",
+        "source": "D:\\GTA5 Download\\BloggerWallpaperApp\\BloggerWallpaperApp\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_adaptive_back.png"
+    },
+    {
+        "merged": "D:\\GTA5 Download\\BloggerWallpaperApp\\BloggerWallpaperApp\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "D:\\GTA5 Download\\BloggerWallpaperApp\\BloggerWallpaperApp\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "D:\\GTA5 Download\\BloggerWallpaperApp\\BloggerWallpaperApp\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "D:\\GTA5 Download\\BloggerWallpaperApp\\BloggerWallpaperApp\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\GTA5 Download\\BloggerWallpaperApp\\BloggerWallpaperApp\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "D:\\GTA5 Download\\BloggerWallpaperApp\\BloggerWallpaperApp\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\GTA5 Download\\BloggerWallpaperApp\\BloggerWallpaperApp\\app\\build\\intermediates\\merged_res\\debug\\menu_menu_navigation.xml.flat",
+        "source": "D:\\GTA5 Download\\BloggerWallpaperApp\\BloggerWallpaperApp\\app\\src\\main\\res\\menu\\menu_navigation.xml"
+    },
+    {
+        "merged": "D:\\GTA5 Download\\BloggerWallpaperApp\\BloggerWallpaperApp\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_ic_share.png.flat",
+        "source": "D:\\GTA5 Download\\BloggerWallpaperApp\\BloggerWallpaperApp\\app\\src\\main\\res\\drawable-hdpi\\ic_share.png"
+    },
+    {
+        "merged": "D:\\GTA5 Download\\BloggerWallpaperApp\\BloggerWallpaperApp\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_ic_no_favorite.png.flat",
+        "source": "D:\\GTA5 Download\\BloggerWallpaperApp\\BloggerWallpaperApp\\app\\src\\main\\res\\drawable-hdpi\\ic_no_favorite.png"
+    },
+    {
+        "merged": "D:\\GTA5 Download\\BloggerWallpaperApp\\BloggerWallpaperApp\\app\\build\\intermediates\\merged_res\\debug\\drawable_bg_button_transparent.xml.flat",
+        "source": "D:\\GTA5 Download\\BloggerWallpaperApp\\BloggerWallpaperApp\\app\\src\\main\\res\\drawable\\bg_button_transparent.xml"
+    },
+    {
+        "merged": "D:\\GTA5 Download\\BloggerWallpaperApp\\BloggerWallpaperApp\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_ic_launcher_adaptive_fore.png.flat",
+        "source": "D:\\GTA5 Download\\BloggerWallpaperApp\\BloggerWallpaperApp\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_adaptive_fore.png"
+    },
+    {
+        "merged": "D:\\GTA5 Download\\BloggerWallpaperApp\\BloggerWallpaperApp\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "D:\\GTA5 Download\\BloggerWallpaperApp\\BloggerWallpaperApp\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\GTA5 Download\\BloggerWallpaperApp\\BloggerWallpaperApp\\app\\build\\intermediates\\merged_res\\debug\\xml_provider_paths.xml.flat",
+        "source": "D:\\GTA5 Download\\BloggerWallpaperApp\\BloggerWallpaperApp\\app\\src\\main\\res\\xml\\provider_paths.xml"
+    },
+    {
+        "merged": "D:\\GTA5 Download\\BloggerWallpaperApp\\BloggerWallpaperApp\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_ic_launcher_foreground.png.flat",
+        "source": "D:\\GTA5 Download\\BloggerWallpaperApp\\BloggerWallpaperApp\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "D:\\GTA5 Download\\BloggerWallpaperApp\\BloggerWallpaperApp\\app\\build\\intermediates\\merged_res\\debug\\layout_dialog_about.xml.flat",
+        "source": "D:\\GTA5 Download\\BloggerWallpaperApp\\BloggerWallpaperApp\\app\\src\\main\\res\\layout\\dialog_about.xml"
+    },
+    {
+        "merged": "D:\\GTA5 Download\\BloggerWallpaperApp\\BloggerWallpaperApp\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_launcher_adaptive_back.png.flat",
+        "source": "D:\\GTA5 Download\\BloggerWallpaperApp\\BloggerWallpaperApp\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_adaptive_back.png"
+    },
+    {
+        "merged": "D:\\GTA5 Download\\BloggerWallpaperApp\\BloggerWallpaperApp\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_launcher_adaptive_fore.png.flat",
+        "source": "D:\\GTA5 Download\\BloggerWallpaperApp\\BloggerWallpaperApp\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_adaptive_fore.png"
+    },
+    {
+        "merged": "D:\\GTA5 Download\\BloggerWallpaperApp\\BloggerWallpaperApp\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_ic_launcher_adaptive_fore.png.flat",
+        "source": "D:\\GTA5 Download\\BloggerWallpaperApp\\BloggerWallpaperApp\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_adaptive_fore.png"
+    },
+    {
+        "merged": "D:\\GTA5 Download\\BloggerWallpaperApp\\BloggerWallpaperApp\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "D:\\GTA5 Download\\BloggerWallpaperApp\\BloggerWallpaperApp\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "D:\\GTA5 Download\\BloggerWallpaperApp\\BloggerWallpaperApp\\app\\build\\intermediates\\merged_res\\debug\\drawable_bg_gradient_top.xml.flat",
+        "source": "D:\\GTA5 Download\\BloggerWallpaperApp\\BloggerWallpaperApp\\app\\src\\main\\res\\drawable\\bg_gradient_top.xml"
+    },
+    {
+        "merged": "D:\\GTA5 Download\\BloggerWallpaperApp\\BloggerWallpaperApp\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_ic_stat_onesignal_default.png.flat",
+        "source": "D:\\GTA5 Download\\BloggerWallpaperApp\\BloggerWallpaperApp\\app\\src\\main\\res\\drawable-hdpi\\ic_stat_onesignal_default.png"
+    },
+    {
+        "merged": "D:\\GTA5 Download\\BloggerWallpaperApp\\BloggerWallpaperApp\\app\\build\\intermediates\\merged_res\\debug\\xml_network_security_config.xml.flat",
+        "source": "D:\\GTA5 Download\\BloggerWallpaperApp\\BloggerWallpaperApp\\app\\src\\main\\res\\xml\\network_security_config.xml"
+    },
+    {
+        "merged": "D:\\GTA5 Download\\BloggerWallpaperApp\\BloggerWallpaperApp\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_ic_notification_large_icon.png.flat",
+        "source": "D:\\GTA5 Download\\BloggerWallpaperApp\\BloggerWallpaperApp\\app\\src\\main\\res\\drawable-hdpi\\ic_notification_large_icon.png"
+    },
+    {
+        "merged": "D:\\GTA5 Download\\BloggerWallpaperApp\\BloggerWallpaperApp\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_webview.xml.flat",
+        "source": "D:\\GTA5 Download\\BloggerWallpaperApp\\BloggerWallpaperApp\\app\\src\\main\\res\\layout\\activity_webview.xml"
+    },
+    {
+        "merged": "D:\\GTA5 Download\\BloggerWallpaperApp\\BloggerWallpaperApp\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_ic_menu_favorite_outline.png.flat",
+        "source": "D:\\GTA5 Download\\BloggerWallpaperApp\\BloggerWallpaperApp\\app\\src\\main\\res\\drawable-hdpi\\ic_menu_favorite_outline.png"
+    },
+    {
+        "merged": "D:\\GTA5 Download\\BloggerWallpaperApp\\BloggerWallpaperApp\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_ic_check.png.flat",
+        "source": "D:\\GTA5 Download\\BloggerWallpaperApp\\BloggerWallpaperApp\\app\\src\\main\\res\\drawable-hdpi\\ic_check.png"
+    },
+    {
+        "merged": "D:\\GTA5 Download\\BloggerWallpaperApp\\BloggerWallpaperApp\\app\\build\\intermediates\\merged_res\\debug\\menu_menu_webview.xml.flat",
+        "source": "D:\\GTA5 Download\\BloggerWallpaperApp\\BloggerWallpaperApp\\app\\src\\main\\res\\menu\\menu_webview.xml"
+    },
+    {
+        "merged": "D:\\GTA5 Download\\BloggerWallpaperApp\\BloggerWallpaperApp\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_ic_launcher_adaptive_fore.png.flat",
+        "source": "D:\\GTA5 Download\\BloggerWallpaperApp\\BloggerWallpaperApp\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_adaptive_fore.png"
+    },
+    {
+        "merged": "D:\\GTA5 Download\\BloggerWallpaperApp\\BloggerWallpaperApp\\app\\build\\intermediates\\merged_res\\debug\\xml_gif_wallpaper.xml.flat",
+        "source": "D:\\GTA5 Download\\BloggerWallpaperApp\\BloggerWallpaperApp\\app\\src\\main\\res\\xml\\gif_wallpaper.xml"
+    },
+    {
+        "merged": "D:\\GTA5 Download\\BloggerWallpaperApp\\BloggerWallpaperApp\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "D:\\GTA5 Download\\BloggerWallpaperApp\\BloggerWallpaperApp\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "D:\\GTA5 Download\\BloggerWallpaperApp\\BloggerWallpaperApp\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_notification_detail.xml.flat",
+        "source": "D:\\GTA5 Download\\BloggerWallpaperApp\\BloggerWallpaperApp\\app\\src\\main\\res\\layout\\activity_notification_detail.xml"
+    }
+]

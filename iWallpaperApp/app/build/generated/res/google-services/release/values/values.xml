@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">79264457420-3mhm58ilpu38ne8qlf2ol4ar7at5fc03.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">79264457420</string>
+    <string name="google_api_key" translatable="false">AIzaSyAPUO7S7xuNNHa6BNySgYRNhJsfaS6x2Q8</string>
+    <string name="google_app_id" translatable="false">1:79264457420:android:474f40f766dc5ec4f49869</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyAPUO7S7xuNNHa6BNySgYRNhJsfaS6x2Q8</string>
+    <string name="google_storage_bucket" translatable="false">twallpaper-645f2.appspot.com</string>
+    <string name="project_id" translatable="false">twallpaper-645f2</string>
+</resources>

@@ -1,0 +1,26 @@
+<lint-module
+    format="1"
+    dir="D:\GTA5 Download\BloggerWallpaperApp\BloggerWallpaperApp\app"
+    name=":app"
+    type="APP"
+    maven="BloggerWallpaperApp:app:"
+    gradle="7.1.0"
+    buildFolder="build"
+    bootClassPath="C:\Users\Sandeep Singh\AppData\Local\Android\Sdk\platforms\android-31\android.jar;C:\Users\Sandeep Singh\AppData\Local\Android\Sdk\build-tools\30.0.3\core-lambda-stubs.jar"
+    javaSourceLevel="1.8"
+    compileTarget="android-31"
+    neverShrinking="true">
+  <lintOptions
+      disable="GradleDependency"
+      abortOnError="true"
+      absolutePaths="true"
+      checkReleaseBuilds="true"
+      explainIssues="true">
+    <severities>
+      <severity
+        id="GradleDependency"
+        severity="IGNORE" />
+    </severities>
+  </lintOptions>
+  <variant name="release"/>
+</lint-module>
